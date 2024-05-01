@@ -1,0 +1,4 @@
+[
+    {"id": "hiro", "type": "Temperature", "value": "20°C"},
+    {"id": "kanji", "type": "Humidity", "value": "50%"}
+]
